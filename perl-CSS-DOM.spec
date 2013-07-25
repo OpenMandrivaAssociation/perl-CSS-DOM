@@ -1,14 +1,14 @@
 %define upstream_name CSS-DOM
-%define upstream_version 0.14
+%define upstream_version 0.15
 
 Name:		perl-%{upstream_name}
 Summary:	Perl module for Document Object Model for Cascading Style Sheets  
-Version:	%perl_convert_version %{upstream_version}
+Version:	%perl_convert_version 0.15
 Release:	1
 License:	GPL+ or Artistic
 Group:		Development/Perl
 URL:		http://search.cpan.org/~sprout/CSS-DOM/
-Source0:	http://search.cpan.org/CPAN/authors/id/S/SP/SPROUT/%{upstream_name}-%{upstream_version}.tar.gz
+Source0:	http://www.cpan.org/authors/id/S/SP/SPROUT/CSS-DOM-0.15.tar.gz
 
 BuildRequires:	perl-devel
 BuildRequires:	perl(Exporter) >= 5.57
@@ -42,4 +42,5 @@ perl Makefile.PL INSTALLDIRS=vendor
 * Wed Apr 04 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 0.14-1
 + Revision: 789154
 - imported package perl-CSS-DOM
+
 

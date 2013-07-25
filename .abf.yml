@@ -1,2 +1,4 @@
+removed_sources:
+  CSS-DOM-0.14.tar.gz: 48e42b6ec96cd744b15598e6abb846ae58b24fa5
 sources:
-  "CSS-DOM-0.14.tar.gz": 48e42b6ec96cd744b15598e6abb846ae58b24fa5
+  CSS-DOM-0.15.tar.gz: 92e4f82d98cc403142bee5aa38b346f5fc3a3b39
