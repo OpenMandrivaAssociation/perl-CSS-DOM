@@ -4,7 +4,7 @@
 Name:		perl-%{upstream_name}
 Summary:	Perl module for Document Object Model for Cascading Style Sheets  
 Version:	%perl_convert_version 0.15
-Release:	1
+Release:	2
 License:	GPL+ or Artistic
 Group:		Development/Perl
 URL:		http://search.cpan.org/~sprout/CSS-DOM/
