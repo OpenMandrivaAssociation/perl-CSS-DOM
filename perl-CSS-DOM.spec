@@ -7,7 +7,7 @@ Version:	%perl_convert_version 0.15
 Release:	3
 License:	GPL+ or Artistic
 Group:		Development/Perl
-URL:		http://search.cpan.org/~sprout/CSS-DOM/
+URL:		https://search.cpan.org/~sprout/CSS-DOM/
 Source0:	http://www.cpan.org/authors/id/S/SP/SPROUT/CSS-DOM-0.15.tar.gz
 
 BuildRequires:	perl-devel
